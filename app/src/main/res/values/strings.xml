@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalcuAPP</string>
+
+    //Se arman los botones de la APP//
+    <string name="btn_text_suma">Suma</string>
+    <string name="btn_text_resta">Resta</string>
+    <string name="btn_text_producto">Producto</string>
+    <string name="btn_text_division">Division</string>
+    <string name="btn_hin_numero">Escribe un numero</string>
+</resources>
